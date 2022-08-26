@@ -1,0 +1,5 @@
+"miRTarBase ID","miRNA","Species (miRNA)","Target Gene","Target Gene (Entrez ID)","Species (Target Gene)","Experiments","Support Type","References (PMID)"
+"MIRT005367","xla-miR-1b","Xenopus laevis","hand2-a","373641","Xenopus laevis","Luciferase reporter assay","Functional MTI","15951802"
+"MIRT032507","xla-miR-427","Xenopus laevis","lefty.S","398193","Xenopus laevis","Other","Functional MTI","19386261"
+"MIRT032508","xla-miR-427","Xenopus laevis","nodal6.S","734176","Xenopus laevis","Other","Functional MTI","19386261"
+"MIRT032509","xla-miR-427","Xenopus laevis","nodal5.L","780748","Xenopus laevis","Other","Functional MTI","19386261"

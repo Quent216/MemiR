@@ -1,0 +1,3 @@
+"miRTarBase ID","miRNA","Species (miRNA)","Target Gene","Target Gene (Entrez ID)","Species (Target Gene)","Experiments","Support Type","References (PMID)"
+"MIRT001063","ebv-miR-BART2-5p","Epstein Barr virus","BALF5","3783681","Epstein Barr virus","Nortern blot","Functional MTI (Weak)","15118162"
+"MIRT001063","ebv-miR-BART2-5p","Epstein Barr virus","BALF5","3783681","Epstein Barr virus","Luciferase reporter assay//Western blot//Northern blot","Functional MTI","18073197"

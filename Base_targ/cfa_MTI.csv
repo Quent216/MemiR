@@ -1,0 +1,4 @@
+miRTarBase ID,miRNA,Species (miRNA),Target Gene,Target Gene (Entrez ID),Species (Target Gene),Experiments,Support Type,References (PMID)
+MIRT732206,cfa-miR-421,Canis familiaris,SIRT3,23410,Canis familiaris,Luciferase reporter assay,Functional MTI,27107702
+MIRT438488,cfa-miR-208b,Canis familiaris,MSTN,403433,Canis familiaris,Microarray//Western blot,Functional MTI,24160322
+MIRT438489,cfa-miR-539,Canis familiaris,MSTN,403433,Canis familiaris,Microarray//Western blot,Functional MTI,24160322

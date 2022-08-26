@@ -1,0 +1,9 @@
+miRTarBase ID,miRNA,Species (miRNA),Target Gene,Target Gene (Entrez ID),Species (Target Gene),Experiments,Support Type,References (PMID)
+MIRT437899,bmo-miR-281-3p,Bombyx mori,EcR,692756,Bombyx mori,Luciferase reporter assay,Functional MTI,23707601
+MIRT003552,bmo-miR-7-5p,Bombyx mori,Fib-l,693047,Bombyx mori,GUS reporter assay,Functional MTI,18977439
+MIRT003553,bmo-miR-33-5p,Bombyx mori,Fib-l,693047,Bombyx mori,GUS reporter assay,Functional MTI,18977439
+MIRT735164,bmo-miR-2a-3p,Bombyx mori,Fng,100144549,Bombyx mori,Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,26037405
+MIRT735165,bmo-miR-2b-3p,Bombyx mori,Fng,100144549,Bombyx mori,Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,26037405
+MIRT735167,bmo-miR-13a-3p,Bombyx mori,Fng,100144549,Bombyx mori,Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,26037405
+MIRT735168,bmo-miR-13b-3p,Bombyx mori,Fng,100144549,Bombyx mori,Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,26037405
+MIRT733027,bmo-miR-278-3p,Bombyx mori,IBP2,100846979,Bombyx mori,Luciferase reporter assay//qRT-PCR,Functional MTI,26348138

@@ -1,0 +1,2 @@
+"miRTarBase ID","miRNA","Species (miRNA)","Target Gene","Target Gene (Entrez ID)","Species (Target Gene)","Experiments","Support Type","References (PMID)"
+"MIRT035558","ola-miR-430a","Oryzias latipes","LOC101160940","101160940","Oryzias latipes","GFP reporter assay//Northern blot","Functional MTI","19770025"

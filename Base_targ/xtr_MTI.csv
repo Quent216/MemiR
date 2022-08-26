@@ -1,0 +1,2 @@
+"miRTarBase ID","miRNA","Species (miRNA)","Target Gene","Target Gene (Entrez ID)","Species (Target Gene)","Experiments","Support Type","References (PMID)"
+"MIRT006009","xtr-miR-9-5p","Xenopus tropicalis","hes1","496617","Xenopus tropicalis","Luciferase reporter assay","Functional MTI","21238922"

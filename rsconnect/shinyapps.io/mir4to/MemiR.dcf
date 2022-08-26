@@ -1,0 +1,13 @@
+name: MemiR
+title: MemiR
+username:
+account: mir4to
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6797838
+bundleId: 6239982
+url: https://memir.shinyapps.io/MemiR/
+when: 1661504120.47294
+lastSyncTime: 1661504120.47296
+asMultiple: FALSE
+asStatic: FALSE

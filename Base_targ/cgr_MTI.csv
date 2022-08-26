@@ -1,0 +1,3 @@
+miRTarBase ID,miRNA,Species (miRNA),Target Gene,Target Gene (Entrez ID),Species (Target Gene),Experiments,Support Type,References (PMID)
+MIRT732006,cgr-miR-30a-5p,Cricetulus griseus,Skp2,27401,Cricetulus griseus,Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,26256096
+MIRT733804,cgr-miR-29b-3p,Cricetulus griseus,Dicer1,100689239,Cricetulus griseus,Luciferase reporter assay//qRT-PCR//Western blot,Functional MTI,28137615

@@ -1,0 +1,3 @@
+"miRTarBase ID","miRNA","Species (miRNA)","Target Gene","Target Gene (Entrez ID)","Species (Target Gene)","Experiments","Support Type","References (PMID)"
+"MIRT733052","osa-miR160a-5p","Oryza sativa","LOC4341882","4341882","Oryza sativa","qRT-PCR","Functional MTI (Weak)","27444058"
+"MIRT735226","osa-miR162b","Oryza sativa","LOC4349141","4349141","Oryza sativa","qRT-PCR","Functional MTI (Weak)","26233894"

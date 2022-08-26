@@ -1,0 +1,2 @@
+"miRTarBase ID","miRNA","Species (miRNA)","Target Gene","Target Gene (Entrez ID)","Species (Target Gene)","Experiments","Support Type","References (PMID)"
+"MIRT003217","kshv-miR-K12-5-3p","Kaposi sarcoma-associated herpesvirus","ORF50","4961526","Kaposi sarcoma-associated herpesvirus","Luciferase reporter assay","Functional MTI","20071580"
